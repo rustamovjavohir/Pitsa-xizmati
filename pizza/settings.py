@@ -117,7 +117,7 @@ if DEBUG:
     }
 else:
     DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=True)
-    # DATABASES['default'] = dj_database_url.config(default=config('DATABASE_URL'))
+    DATABASES['default'] = dj_database_url.config(default=config('DATABASE_URL'))
 
 
 # Password validation
