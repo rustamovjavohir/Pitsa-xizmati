@@ -21,7 +21,7 @@
 ## Project ni ishga tushurish
 - Install Postgreql
 - Install Python
-- Git clone the project with ```---```
+- Git clone the project with ```https://github.com/rustamovjavohir/Pitsa-xizmati```
 - Create your virtualenv with `Pipenv` or `virtualenv` and activate it.
 - Install the requirements with ``` pip install -r requirements.txt ```
 - Create you database with `python manage.py runserver` 
