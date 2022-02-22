@@ -21,9 +21,9 @@
 ## Project ni ishga tushurish
 - Install Postgreql
 - Install Python
-- Git clone the project with ```https://github.com/rustamovjavohir/Pitsa-xizmati```
-- Create your virtualenv with `Pipenv` or `virtualenv` and activate it.
-- Install the requirements with ``` pip install -r requirements.txt ```
-- Create you database with `python manage.py runserver` 
-- Finally run the API 
+- Git bilan loyihani yuklab oling ```https://github.com/rustamovjavohir/Pitsa-xizmati```
+-'Pipenv' yoki 'virtualenv' yordamida virtualenv-ni yarating va uni faollashtiring.
+- requirements ni ``` pip install -r requirements.txt ``` bilan o`rnating
+- 'python manage.py runserver' yordamida ma`lumotlar bazasini yarating 
+- Nihoyat APIni ishga tushiramiz 
 ``` python manage.py runserver ``
