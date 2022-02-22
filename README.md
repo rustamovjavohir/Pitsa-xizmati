@@ -22,7 +22,7 @@
 - Install Postgreql
 - Install Python
 - Git bilan loyihani yuklab oling ```https://github.com/rustamovjavohir/Pitsa-xizmati```
--'Pipenv' yoki 'virtualenv' yordamida virtualenv-ni yarating va uni faollashtiring.
+- 'Pipenv' yoki 'virtualenv' yordamida virtualenv-ni yarating va uni faollashtiring.
 - requirements ni ``` pip install -r requirements.txt ``` bilan o`rnating
 - 'python manage.py runserver' yordamida ma`lumotlar bazasini yarating 
 - Nihoyat APIni ishga tushiramiz 
